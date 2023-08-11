@@ -25,7 +25,7 @@ const Cards=({movie})=>{
             </SkeletonThem>
         </div>
         :
-        <Link to={`movie/${movie.id}`} style={{textDecoration:"none",color:"white"}}>
+        <Link to={`/movie/${movie.id}`} style={{textDecoration:"none",color:"white"}}>
             <div className="cards">
                 <img className="cards__img" src={`https://image.tmdb.org/t/p/original${movie?movie.poster_path:""}`} alt=""></img>
                 <div className="card__title">{movie?movie.original__title:""}</div>
