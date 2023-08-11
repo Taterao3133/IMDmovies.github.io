@@ -1,9 +1,9 @@
 
-# IMDB Website Clone
+# IMDB Website Clone  using React
+![image](https://github.com/Taterao3133/IMDmovies.github.io/assets/122861107/2cedd75b-5dbb-49c2-8af6-4dd2a46d1844)
 
-![IMDB Logo](https://www.imdb.com/images/branding/imdblogo.png)
 
-This repository contains a clone of the popular Internet Movie Database (IMDB) website. The IMDB website clone aims to replicate the core features and functionality of the original IMDB website, allowing users to browse, search for, and discover information about movies, TV shows, actors, and more.
+This repository contains a clone of the popular Internet Movie Database (IMDB) website. The IMDB website clone aims to replicate the core features and functionality of the original IMDB website, allowing users to browse, search for, and discover information about movies.
 
 ## Table of Contents
 
@@ -12,19 +12,18 @@ This repository contains a clone of the popular Internet Movie Database (IMDB) w
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
 The IMDB Website Clone includes the following features:
 
-- Browse and search for movies and TV shows.
+- Browse  movies Popular, Top-rated, and Upcoming.
 - View detailed information about movies, including plot summaries, cast, crew, and user ratings.
-- Explore information about actors, directors, and other crew members.
-- Rate and review movies and TV shows.
 - Create an account and maintain a watchlist of favorite movies and shows.
 - Responsive design for seamless user experience across devices.
+- ![image](https://github.com/Taterao3133/IMDmovies.github.io/assets/122861107/fec05a9f-86aa-498c-80ba-c9cc2cbc6260)
+
+![image](https://github.com/Taterao3133/IMDmovies.github.io/assets/122861107/439eb058-421d-41a9-b106-55afa735be30)
 
 ## Getting Started
 
@@ -45,7 +44,7 @@ git clone https://github.com/your-username/imdb-clone.git
 2. Navigate to the project directory:
 
 ```bash
-cd imdb-clone
+cd frontend
 ```
 
 3. Install dependencies:
@@ -54,11 +53,8 @@ cd imdb-clone
 npm install
 ```
 
-4. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add the necessary environment variables, such as database connection details, API keys, etc.
 
-5. Start the development server:
+4. Start the development server:
 
 ```bash
 npm start
@@ -68,17 +64,14 @@ npm start
 
 ## Usage
 
-- Browse movies and TV shows using the navigation bar or search functionality.
-- Click on a movie or TV show to view detailed information.
-- Rate and review movies/TV shows by logging into your account.
-- Add movies and shows to your watchlist by creating an account.
-- Explore information about actors, directors, and crew members.
+- Browse movies  using the navigation bar functionality.
+- Click on a movie to view detailed information.
 
 
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+
+
 
 ---
 
