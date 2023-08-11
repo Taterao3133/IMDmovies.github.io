@@ -1,5 +1,6 @@
 
 # IMDB Website Clone  using React
+For live project click : https://64d5ed577734c23c9160c548--gleaming-madeleine-a30e0d.netlify.app/
 ![image](https://github.com/Taterao3133/IMDmovies.github.io/assets/122861107/2cedd75b-5dbb-49c2-8af6-4dd2a46d1844)
 
 
@@ -16,7 +17,7 @@ This repository contains a clone of the popular Internet Movie Database (IMDB) w
 ## Features
 
 The IMDB Website Clone includes the following features:
-
+For live project click : https://64d5ed577734c23c9160c548--gleaming-madeleine-a30e0d.netlify.app/
 - Browse  movies Popular, Top-rated, and Upcoming.
 - View detailed information about movies, including plot summaries, cast, crew, and user ratings.
 - Create an account and maintain a watchlist of favorite movies and shows.
